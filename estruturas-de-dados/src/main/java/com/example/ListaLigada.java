@@ -21,9 +21,12 @@ public class ListaLigada {
 
         exibir(inicio);
 
+        inicio = remover(inicio, 20);
+
         System.out.println("Buscar 20: "+ buscar(inicio, 20));
 
-        inicio = remover(inicio, 20);
+        exibir(inicio);
+       // inicio = remover(inicio, 20);
     }
 
     public static No inserirNoFim(No inicio, int valor){
