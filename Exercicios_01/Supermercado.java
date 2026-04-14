@@ -18,8 +18,9 @@ public static double leitura(double[] faturamentos, int valor){
         valor++;
         System.out.println("faturamentos " + faturamentos[i] );
     } return valor;
-
+}
+    public static int parametros(int valor)
     
-
+    if(){
 }
 }
