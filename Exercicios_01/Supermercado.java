@@ -19,6 +19,10 @@ public static double leitura(double[] faturamentos, int valor){
         System.out.println("faturamentos " + faturamentos[i] );
     } return valor;
 }
+    public static int caixasIndi(int menorValor, int maiorValor, int valor){
+            int caixas = new int[5];
+        
+    }
     public static int parametros(int valor)
     int soma = 0;
     int maiorValor = 0;
@@ -29,5 +33,11 @@ public static double leitura(double[] faturamentos, int valor){
     return maiorValor;
 }if (menorValor < faturamentos.length){
     return menorValor;
-}if 
+}if (indiceMaior > valor.length){
+    return indiceMaior;
+}if (indiceMenor < valor.length){
+    return indiceMenor
+        } 
+    
+
 }
