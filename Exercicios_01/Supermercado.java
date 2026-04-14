@@ -20,7 +20,14 @@ public static double leitura(double[] faturamentos, int valor){
     } return valor;
 }
     public static int parametros(int valor)
-    
-    if(){
-}
+    int soma = 0;
+    int maiorValor = 0;
+    int menorValor = 0;
+    int indiceMaior = 0;
+    int indiceMenor = 0;
+    if(maiorValor > faturamento.length){
+    return maiorValor;
+}if (menorValor < faturamentos.length){
+    return menorValor;
+}if 
 }
